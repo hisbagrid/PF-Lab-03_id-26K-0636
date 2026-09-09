@@ -1,9 +1,11 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() {
-    // Write C code here
-    printf("Start small. Ship something.");
-
+    printf("Name: Hisbah Haroon\n");
+    printf("Age: 19\n");
+    printf("Department: Computer Science\n");
+    printf("Student ID: 26K-0636\n");
+    printf("Section: D\n");
+    printf("University: Fast-NU\n");
     return 0;
 }
